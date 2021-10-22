@@ -41,11 +41,11 @@ public class DemoStrings {
         System.out.println(str.codePointBefore(12));
         System.out.println(str.codePointCount(7,12));
 
-        str="abcd";
+        str="zabcd";
         System.out.println(str.compareTo("acbd"));
         System.out.println(str.compareTo("abcd"));
         System.out.println(str.compareTo("rxyz"));
-        System.out.println(str.indexOf(0));
+        System.out.println(str.indexOf(98));
 
     }
 
