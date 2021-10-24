@@ -61,9 +61,9 @@ public class DemoRegex {
 
 
         String myname = "PRAJWAL CHORDIYA";
-        String rev = null ;
-        Pattern p4 = pattern.compile("myname");
-        String[] mynamearr = p4.split(myname);
+        String rev = "" ;
+//        Pattern p4 = Pattern.compile("myname");
+//        String[] mynamearr = p4.split(myname);
         int length = myname.length();
         for(int i=length-1;i>=0;i--)
         {
