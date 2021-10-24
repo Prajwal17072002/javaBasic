@@ -1,6 +1,7 @@
 package inheritance;
 
-public abstract class Figure {
+
+public class Figure {
     double dim1;
     double dim2;
 
@@ -17,5 +18,8 @@ public abstract class Figure {
         dim2 = b;
     }
 
-    public abstract double area();
+    public double area(){
+        System.out.println("Figure - method area..");
+        return 1.0;
+    }
 }

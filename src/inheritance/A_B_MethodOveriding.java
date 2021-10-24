@@ -1,6 +1,6 @@
 package inheritance;
 
-public class MethodOveriding {
+public class A_B_MethodOveriding {
 
     public static void main(String args[]){
 

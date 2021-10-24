@@ -1,6 +1,6 @@
 package inheritance;
 
-public class InheritanceDemo {
+public class A_B_InheritanceDemo {
 
     public static void main(String args[]){
 

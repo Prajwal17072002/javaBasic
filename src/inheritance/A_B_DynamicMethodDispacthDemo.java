@@ -1,6 +1,6 @@
 package inheritance;
 
-public class DynamicMethodDispacthDemo {
+public class A_B_DynamicMethodDispacthDemo {
 
     public static void main(String args[]) {
 
